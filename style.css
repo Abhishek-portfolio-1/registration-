@@ -1,0 +1,60 @@
+body{
+    margin: 5%;
+    background: rgb(21,194,108);
+background: linear-gradient(90deg, rgba(21,194,108,1) 0%, rgba(245,252,247,1) 50%, rgba(42,172,83,1) 100%);
+}
+.from{
+    border: 2px solid white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: white;
+
+    
+}
+.full{
+    padding: 80px;
+    border-radius: 20px;
+    background: rgb(21,194,108);
+background: linear-gradient(90deg, rgba(21,194,108,1) 0%, rgba(0,3,1,1) 50%, rgba(42,172,83,1) 100%);
+}
+form{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+    line-height: 1.8;
+    border-radius: 10px;
+    background-color: white;
+
+} 
+fieldset{
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+.ii{
+    font-size: medium;
+    padding: 5px;
+    width: 400px;
+}
+.ss{
+    font-size: medium;
+    padding: 10px;
+    width: 500px;
+    color: white;
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 5px;
+}
+a{
+    color: blue;
+}
